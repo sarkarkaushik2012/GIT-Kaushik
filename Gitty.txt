@@ -1,0 +1,6 @@
+Welcome to git
+gvc 
+working area 
+staging area
+local repository
+remote repository
