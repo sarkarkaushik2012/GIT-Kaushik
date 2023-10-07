@@ -1,0 +1,5 @@
+GITHUB
+
+GitHub is a platform that provides hosting for software development and version control using Git.
+It offers both distributed version control and source code management (SCM) 
+functionality of Git combined with its own features.
